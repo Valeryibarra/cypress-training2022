@@ -1,0 +1,25 @@
+{
+  "name": "cypress-training2022",
+  "version": "1.0.0",
+  "description": "This a workshop about cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeryibarra/cypress-training2022.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "valery <valeryibarra2@gmail.com> (Valeryibarra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valeryibarra/cypress-training2022/issues"
+  },
+  "homepage": "https://github.com/valeryibarra/cypress-training2022#readme"
+}
